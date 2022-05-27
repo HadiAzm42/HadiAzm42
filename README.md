@@ -2,8 +2,7 @@
 - 👀 I’m interested in Websites Alot!...
 - 🌱 I’m currently learning Web Development ...
 - 📫 How to reach me
--           Discord  : ᕼᗩᗪI ᗩᘔEEᗰ#0001
--           Instagram : HadiAzm42
+-           Instagram : Hadi._hun_.yaar
 -            FaceBook: Hadi Azeem Azeemi
 ...
 
