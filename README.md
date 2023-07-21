@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @HadiAzm42
 - 👀 I’m interested in Websites and app-developement Alot!...
-- 🌱 I’m currently learning Web Development ...
+- 🌱 I’m currently learning Python ...
 - 📫 How to reach me
--           Instagram : Hadi._hun_.yaar
--            FaceBook: Hadi Azeem Azeemi
--             Discord : Hadi#3669
+-           Instagram: Cafffeiinne
+-            FaceBook: Hadi Azeem
+-             Discord: Cafffeiinne
 ...
 
 <!---
