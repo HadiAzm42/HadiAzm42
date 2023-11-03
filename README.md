@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HadiAzm42
-- 👀 I’m interested in Websites and app-developement Alot!...
+- 👀 Web, Mobile, AI And BlockChain Developer.
 - 🌱 I’m currently learning Python ...
 - 📫 How to reach me
 -           Instagram: hadiazeemm
