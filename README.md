@@ -2,9 +2,9 @@
 - 👀 Web, Mobile, AI And BlockChain Developer.
 - 🌱 I’m currently learning Python ...
 - 📫 How to reach me
--           Instagram: hadiazeemm
+-           Instagram: hadishahh999
 -            FaceBook: Hadi Azeem
--             Discord: Cafffeiinne
+-             Discord: lostalgia999
 ...
 
 <!---
